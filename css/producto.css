@@ -1,0 +1,18 @@
+.wrapper{
+    background-color: coral;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    color: azure;
+    text-align: center;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+}
+
+
